@@ -1,11 +1,10 @@
-
-
+<p align="center"><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" alt="lets code" width="100%" height="20px"></p>
 <h2 align="center">Full-Stack Developer || Software Engineer</h2>
 
 <div>
-  <p align="center"> 🌍  Based in Orlando,FL </p>
-  <p align="center"> 🧠  I'm currently learning C# </p>
-  <p align="center"> ⭐  Passionate about problem solving </p>
+  <p align="center"> <img src="https://media3.giphy.com/media/oMRLAzk3Pb0c5h5KZY/giphy.gif" alt="Florida Gif" height="20px">  Based in Orlando,FL </p>
+  <p align="center"> <img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vs code gif" height="20px">  I'm currently learning C# </p>
+  <p align="center"> <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="vs code gif" height="20px">  Passionate about problem solving </p>
 </div>
 
 <h2 align="center" > Skills </h2>
@@ -33,6 +32,7 @@
 
 <h2 align="center"> Stats </h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xZadex&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="xZadex's GitHub stats" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xZadex&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="xZadex's GitHub stats" /></p> -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xZadex&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+<p align="center"><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" alt="lets code" width="100%" height="20px"></p>
