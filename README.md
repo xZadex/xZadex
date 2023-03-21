@@ -35,4 +35,7 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xZadex&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="xZadex's GitHub stats" /></p> -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xZadex&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+
+<p align="center"><a href="https://github.com/xZadex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xZadex&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><p>
+
 <p align="center"><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" alt="lets code" width="100%" height="20px"></p>
