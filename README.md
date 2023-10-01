@@ -2,9 +2,9 @@
 <h2 align="center">Full-Stack Developer || Software Engineer</h2>
 
 <div>
-  <p align="center"> <img src="https://media3.giphy.com/media/oMRLAzk3Pb0c5h5KZY/giphy.gif" alt="Florida Gif" height="20px" width="20px">  Based in Orlando,FL </p>
-  <p align="center"> <img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vs code gif" height="20px" width="20px">  I'm currently learning C# </p>
-  <p align="center"> <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="vs code gif" height="20px" width="20px">  Passionate about problem solving </p>
+  <p align="center"> <img src="https://media3.giphy.com/media/oMRLAzk3Pb0c5h5KZY/giphy.gif" alt="Florida Gif" height="30px" width="30px">  Based in Orlando,FL </p>
+  <p align="center"> <img src="https://media.giphy.com/media/PLWtp8kU6308htcQO0/giphy.gif" alt="vs code gif" height="30px" width="30px">  Gamer with a passion for computers</p>
+  <p align="center"> <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="vs code gif" height="30px" width="30px">  Currently working on an updated portfolio in React</p>
 </div>
 
 <h2 align="center" > Skills </h2>
