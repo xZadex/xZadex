@@ -1,39 +1,59 @@
-<p align="center"><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" alt="lets code" width="100%" height="20px"></p>
-<h2 align="center">Full-Stack Developer || Software Engineer</h2>
+# Hi there 👋
 
-<div>
-  <p align="center"> <img src="https://media3.giphy.com/media/oMRLAzk3Pb0c5h5KZY/giphy.gif" alt="Florida Gif" height="30px" width="30px">  Based in Orlando,FL </p>
-  <p align="center"> <img src="https://media.giphy.com/media/PLWtp8kU6308htcQO0/giphy.gif" alt="vs code gif" height="30px" width="30px">  Gamer with a passion for computers</p>
-  <p align="center"> <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="vs code gif" height="30px" width="30px">  Currently working on an updated portfolio in React</p>
-</div>
+**`Full-Stack Software Engineer`**
 
-<h2 align="center" > Skills </h2>
+<a align="left" href="mailto:gibson.nick.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4538?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+<a href="https://www.linkedin.com/in/nickthesoftwaredev">
+  <img src="https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+<a href/>
+<a href="https://www.nicholasgibson.dev">
+  <img src="https://img.shields.io/badge/Portfolio-90BE6D?style=for-the-badge&logo=netlify&logoColor=white" />
+ </a>
+<a href/>
 
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+### My name is Nick
+- I'm a Full-Stack Software Engineer :computer:
+- I'm a graduate from Coding Dojo :ninja:
+- I’m preparing for interviews 🔭
 
-<h2 align="center"> Socials </h2>
 
-<p align="center"><a href="https://www.linkedin.com/in/nickthesoftwaredev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://www.nicholasgibson.dev). <em>I'm currently working on updating my portfolio and preparing for interviews</em>
 
-<h2 align="center"> Stats </h2>
+### Open to any feedback pertaining to anything programming or design
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xZadex&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="xZadex's GitHub stats" /></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xZadex&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xZadex&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
 
-<!-- <p align="center"><a href="https://github.com/xZadex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xZadex&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><p> -->
+<table>
+  <tr>
+    <td><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
+    <td><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
+    <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></td>
+    <td><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
+    <td><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+    <td><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></td>
+    <td><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
+    <td><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    <td><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+    <td><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" /></td>
+    <td><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
+  </tr>
+</table>
+
+
+
+
+##
+----
