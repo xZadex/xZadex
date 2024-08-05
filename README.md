@@ -17,7 +17,7 @@
 ### My name is Nick
 - I'm a Full-Stack Software Engineer :computer:
 - I'm a graduate from Coding Dojo :ninja:
-- I’m preparing for interviews 🔭
+- I’m currently learning TypeScript and Next.js :telescope:
 
 
 I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://www.nicholasgibson.dev). <em>I'm currently working on updating my portfolio and preparing for interviews</em>
